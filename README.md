@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vanshatarar4</h1>
+<h1 align="center">Hi 👋, I'm Vansh Tarar</h1>
 <h3 align="center">AI & Data Science enthusiast | Cloud & DevOps learner | Passionate about building real-world tech solutions</h3>
 
 <h3 align="left">Connect with me:</h3>
